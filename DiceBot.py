@@ -28,7 +28,7 @@ import random
 from techlib import *
 
 #-- Configuration -- #Assicurati di compilare tutti i campi prima di avviare il bot
-token = '' #Token del bot ottenuto da t.me/botfather
+token = '1277928698:AAGTxjacvBoQ33ouKEiTJoVv9F8b454GJyM' #Token del bot ottenuto da t.me/botfather
 repository = 'https://github.com/Davide-Leone/dicebot' #Link al codice sorgente del programma. Se il codice sorgente viene modificato bisogna cambiare questo indirizzo.
 
 #-- BOT -- Inizio vero e proprio del bot
